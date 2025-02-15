@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Displays a digit bewteen 0 and 9 to a seven segment LED display using a binary number input.
 
 ## How to test
 
-Explain how to use your project
+Input a binary number using the input pins, wire a seven segment LED display to the output pins following the pins' letters.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven segment LED display.
